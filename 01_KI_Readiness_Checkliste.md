@@ -4,4 +4,4 @@
 3. 🗓️ Mitarbeiter-Schulungen planen *(DD.MM.YYYY oder YYYY-MM-DD)*
 
 ### Hinweis: 
-- Beispiele für Datumsformate: 15.03.2024 oder 2024-03-15.
+- Beispiele für Datumsformate: 15.03.2024 oder 2024-03-15 (empfohlen: verwenden Sie YYYY-MM-DD, falls möglich).
