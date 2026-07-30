@@ -1,4 +1,4 @@
-## KI-Readiness Checkliste
+## KI-Readiness Checklist
 1. 🗓️ Datenqualität prüfen (Data Silos breaken) *(DD.MM.YYYY oder YYYY-MM-DD)*
 2. 🗓️ API Kosten evaluieren (Local vs. Cloud) *(DD.MM.YYYY oder YYYY-MM-DD)*
 3. 🗓️ Mitarbeiter-Schulungen planen *(DD.MM.YYYY oder YYYY-MM-DD)*
