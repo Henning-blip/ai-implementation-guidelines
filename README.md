@@ -11,7 +11,7 @@ Methodische Standards und Best Practices für die Implementierung von KI-Systeme
 ## English Version
 Methodological standards and best practices for implementing AI systems into existing organizational structures (organizational development).
 
-### Topics:
+### **Topics**:
 - Process standardization
 - Data security and privacy
 - Employee training and consulting
