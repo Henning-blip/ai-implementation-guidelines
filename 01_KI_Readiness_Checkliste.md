@@ -1,7 +1,10 @@
 ## KI-Readiness Checklist
-1. 🗓️ Datenqualität prüfen (Data Silos breaken) *(DD.MM.YYYY oder YYYY-MM-DD)*
-2. 🗓️ API Kosten evaluieren (Local vs. Cloud) *(DD.MM.YYYY oder YYYY-MM-DD)*
-3. 🗓️ Mitarbeiter-Schulungen planen *(DD.MM.YYYY oder YYYY-MM-DD)*
+1. 🗓️ Datenqualität prüfen (Data Silos breaken) *(YYYY-MM-DD)*  
+   - Kurze Beschreibung/ziele hier eintragen  
+2. 🗓️ API Kosten evaluieren (Local vs. Cloud) *(YYYY-MM-DD)*  
+   - Kurze Beschreibung/ziele hier eintragen  
+3. 🗓️ Mitarbeiter-Schulungen planen *(YYYY-MM-DD)*  
+   - Kurze Beschreibung/ziele hier eintragen  
 
 ### Hinweis: 
-- Beispiele für Datumsformate: 15.03.2024 oder 2024-03-15 (empfohlen: verwenden Sie YYYY-MM-DD, falls möglich).
+- Beispiele für Datumsformate: YYYY-MM-DD (empfohlen) oder DD.MM.YYYY  
