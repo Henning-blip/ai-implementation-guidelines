@@ -1,3 +1,4 @@
+
 # AI Strategy & Guidelines
 
 ## German Version
