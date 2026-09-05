@@ -7,4 +7,4 @@
    - Kurze Beschreibung/ziele hier eintragen  
 
 ### Hinweis: 
-- Beispiele für Datumsformate: YYYY-MM-DD (empfohlen) oder DD.MM.YYYY  
+- Beispiele für Datumsformate: YYYY.MM.YY (empfohlen) oder YYYY-MM-DD
