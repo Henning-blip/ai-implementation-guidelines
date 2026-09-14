@@ -8,3 +8,4 @@
 
 ### Hinweis: 
 - Beispiele für Datumsformate: YYYY.MM.YY (empfohlen) oder YYYY-MM-DD
+- Es wird empfohlen, das Format YYYY.MM.YY zu verwenden, da es übersichtlicher ist und die Jahreszahl vor dem Monat listet.
