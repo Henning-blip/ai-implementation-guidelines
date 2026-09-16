@@ -1,4 +1,3 @@
-
 # Standards für System-Prompts
 Englische Übersicht über die Datei am Ende dieser Datei.
 
