@@ -18,3 +18,5 @@ Methodological standards and best practices for implementing AI systems into exi
 
 ## Purpose
 This document serves as a strategic guide for organizations looking to adopt AI technologies. It outlines key considerations for successful implementation and operational integration.
+
+[Back to top](#table-of-contents)
