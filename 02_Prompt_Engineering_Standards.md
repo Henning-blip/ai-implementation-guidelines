@@ -11,6 +11,12 @@ Der erwartete Ausgabefomat muss klar und streng geregelt sein, um Verwirrungen z
 Wenn der System Irrtümer trifft, müssen替代 Szenarien definiert werden, um die Qualität der Ausgaben zu gewährleisten.
 
 
+# Contents
+## Standards für System-Prompts
+## Define the role clearly (en) 
+## Specify strict output format in JSON/Pydantic (en) 
+## Set fallback scenarios for hallucinations (en)
+
 # Standards for System Prompts
 English overview of the file at the end of this document.
 
