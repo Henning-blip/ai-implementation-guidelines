@@ -4,7 +4,7 @@
 2. 🗓️ API Kosten evaluieren (Local vs. Cloud) [[YYYY.MM.YY]] *(e.g., compare costs of Google AI vs. Azure OpenAI)*  
    - Kurze Beschreibung/ziele hier eintragen (gemäß Format YYYY.MM.YY) 
 3. 🗓️ Mitarbeiter-Schulungen planen [[YYYY.MM.YY]] *(e.g., schedule training sessions for Product Managers)*  
-   - Kurze Beschreibung/ziele hier eintragen (gemäß Format YYYY.MM.YY)
+   - Beispiels: Mitarbeiter Schulungsthemen definieren und Terminplan erstellen
 
 ### Hinweis: 
 - Beispiele für Datumsformate: YYYY.MM.YY ([[YYYY.MM.YY]]) oder YYYY-MM-DD
