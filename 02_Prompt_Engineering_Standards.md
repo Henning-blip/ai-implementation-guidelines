@@ -1,7 +1,7 @@
 # Standards für System-Prompts
 Englische Übersicht über die Datei am Ende dieser Datei.
 
-## Define the role clearly (de)
+## Define the role clearly (de) 
 Die gewünschte Fachrolle des Systems muss eindeutig definiert sein, z.B. "Wissensverwalter" oder "Consultant".  
 
 ## Specify strict output format in JSON/Pydantic (de) 
@@ -21,10 +21,10 @@ Wenn der System Irrtümer trifft, müssen替代 Szenarien definiert werden, um d
 English overview of the file at the end of this document.
 
 ## Define the role clearly (en) 
-Specify the desired professional role of the system, e.g., "Knowledge Manager" or "Consultant."
+- Specify the desired professional role of the system, e.g., "Knowledge Manager" or "Consultant."
 
 ## Specify strict output format in JSON/Pydantic (en) 
-Clearly define the expected output format to avoid confusion.
+- Clearly define the expected output format to avoid confusion.
 
 ## Set fallback scenarios for hallucinations (en)
-Define alternative scenarios when the system makes errors to ensure output quality.
+- Define alternative scenarios when the system makes errors to ensure output quality.
