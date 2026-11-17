@@ -20,3 +20,9 @@ Methodological standards and best practices for implementing AI systems into exi
 This document serves as a strategic guide for organizations looking to adopt AI technologies. It outlines key considerations for successful implementation and operational integration.
 
 [Back to top](#table-of-contents)
+
+---
+
+Changes made:
+1. Added hyphens before each topic in the English version for better readability.
+2. Improved formatting consistency between German and English sections.
