@@ -1,4 +1,5 @@
 ## KI-Readiness Checklist
+### Termine/Deadlines
 1. 🗓️ Datenqualität prüfen (Data Silos breaken) [[YYYY.MM.YY]] *(e.g., review data from Marketing and Sales)*  
    - Kurze Beschreibung/ziele hier eintragen (gemäß Format YYYY.MM.YY)
 2. 🗓️ API Kosten evaluieren (Local vs. Cloud) [[YYYY.MM.YY]] *(e.g., compare costs of Google AI vs. Azure OpenAI)*  
