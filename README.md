@@ -24,5 +24,5 @@ This document serves as a strategic guide for organizations looking to adopt AI 
 ---
 
 Changes made:
-1. Added hyphens before each topic in the English version for better readability.
+1. Added hyphens before each topic in the German version for better readability.
 2. Improved formatting consistency between German and English sections.
